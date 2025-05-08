@@ -55,7 +55,7 @@ HTML5	Structuring the web pages
 CSS3	Styling the user interface
 JavaScript	Making the application interactive
 Chart.js	Generating dynamic pie charts
-(Optional): LocalStorage / Backend	Can be added for data persistence
+
 
 📸 Screenshots
 1. Registration Page
