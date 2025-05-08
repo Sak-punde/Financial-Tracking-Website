@@ -1,4 +1,6 @@
-<h1>💰 Personal Budget Manager</h1>
+ <h1 align="center">💰 Personal Budget Manager</h1>
+
+
 
 📝 Project Description
 Personal Budget Manager is a comprehensive web application developed to help individuals manage their personal finances by tracking income and expenses. The tool enables users to log daily expenses, categorize them, and gain a visual understanding of their spending patterns using interactive charts. It serves as a digital wallet assistant designed especially for users with minimal technical knowledge.
@@ -57,13 +59,21 @@ JavaScript	Making the application interactive
 Chart.js	Generating dynamic pie charts
 
 
-📸 Screenshots
+<h2>📸 Screenshots</h2>
+
 1. Registration Page
 User fills out personal details to get started.
+<img align="center" alt="Register" width="700" src="Images/Register.jpg/">
+
+
 
 2. Expense Entry Form
 User enters date-wise expense data.
+<img align="center" alt="Tracker" width="700" src="Images/Tracker.jpg/">
+
 
 3. Expense Visualization
 Pie chart categorizes spending with color-coded segments.
+<img align="center" alt="Piechart" width="700" src="Images/Pie Chart.jpg/">
+
 
